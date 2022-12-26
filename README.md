@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akasi-M-P
-- 👀 I’m interested in Full-Stack Development
+- 👀 I’m a Full-Stack Developer.
 - 🌱 I’m currently learning JavaScript with a strong interest in learning MongoDB, Express(.js), React(.js), and Node(.js) in my journey. 
 - 💞️ I’m looking to collaborate on personal and organizational projects.
 - 📫 How to reach me on mbajameel90@gmail.com    AND   https://www.linkedin.com/in/peter-m-akasi-394820145
