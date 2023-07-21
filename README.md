@@ -31,6 +31,5 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/118350559?v=4"  />
 
 ###
