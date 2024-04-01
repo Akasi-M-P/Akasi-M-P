@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I'm Peter Mba Akasi, a Front-End Engineer based in Accra, Ghana. With over a year of experience, I specialize in creating impactful, interactive, and user-friendly software applications. My skills include HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, React, Sass, Figma, and Creatie.ai.</h2>
+![image](https://github.com/Akasi-M-P/Akasi-M-P/assets/118350559/93260536-d9ba-468c-9af1-93e48e1f1692)<h2 align="left">Hello, I'm Peter Mba Akasi, a Front-End Engineer based in Accra, Ghana. With over a year of experience, I specialize in creating impactful, interactive, and user-friendly software applications. My skills include HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, React, Sass, Figma, and Creatie.ai.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/118350559?v=4"  />
 
 ###
 
