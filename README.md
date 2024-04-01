@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Peter Akasi Mba and I'm a Front-End Engineer, from Ghana</h2>
+<h2 align="left">Hello, I'm Peter Mba Akasi, a Front-End Engineer based in Accra, Ghana. With over a year of experience, I specialize in creating impactful, interactive, and user-friendly software applications. My skills include HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, React, Sass, Figma, and Creatie.ai.</h2>
 
 ###
 
